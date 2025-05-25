@@ -52,7 +52,7 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/techreagan/portfolio/main/public/assets/images/project-banner.gif" alt="Featured Projects Banner" width="90%" style="border-radius: 12px;" />
+  <img src="https://i.imgur.com/oZ5J4oF.gif" alt="Featured Projects Banner" width="90%" style="border-radius: 12px;" />
 </p>
 
 ---
