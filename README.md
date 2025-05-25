@@ -51,15 +51,38 @@
 
 ## 🚀 Featured Projects
 
-- [**alu-shell**](https://github.com/dmayen/alu-shell):  
-  A collection of shell scripting tasks from ALX, showcasing Linux command-line skills.
+<div align="center">
 
-- **African Learning Link (ALL):**  
-  A mentorship and learning development platform empowering African youth through structured education, guidance, and skills-building.  
-  *(Actively building modules and mentorship systems for learners and aspiring professionals.)*
+✨ Here are a few projects I'm proud of — built to empower, educate, and connect communities through technology. ✨
 
-- **Raise Them Foundation Website:**  
-  Led the design and development of a foundation’s website supporting refugees’ potential.
+</div>
+
+---
+
+### 🐚 [alu-shell](https://github.com/dmayen/alu-shell)
+> A curated collection of Shell scripting tasks from the ALX Software Engineering program.  
+> 🔹 Focused on automation, permissions, and Linux CLI mastery.  
+> 🔧 Technologies: `Bash`, `Linux`, `Git`
+
+---
+
+### 🌍 African Learning Link (ALL)
+> A mentorship and learning development platform designed to **empower African youth**.  
+> 🚀 Creating structured learning paths, digital access, and mentorship pipelines.  
+> 🌱 *In development*: dynamic course modules, forums, and talent connections.
+
+---
+
+### 🕊️ Raise Them Foundation Website
+> Designed and developed a professional platform for a foundation that helps **refugees realize their potential**.  
+> 🎯 Focus: impact storytelling, donation integration, mobile-first UI.  
+> 💡 Tools: `HTML`, `CSS`, `JavaScript`, `Figma`
+
+---
+
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2021/03/25/13/39/web-6126237_1280.png" alt="Featured Projects Banner" width="80%" style="border-radius: 12px;" />
+</p>
 
 ---
 
