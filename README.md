@@ -56,7 +56,6 @@
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/deng-mayen-deng-akol-55a492313)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/dmayen)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram)](https://instagram.com/dmayen)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok)](https://www.tiktok.com/@dengmayendengakol?_t=ZM-8weV3zQeIVy&_r=1)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook)](https://web.facebook.com/dengmayen.deng.5)
