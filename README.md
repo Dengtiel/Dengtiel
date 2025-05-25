@@ -1,5 +1,14 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/wF5dPjW.png" alt="Dengtiel Mayen Banner" width="100%" />
+</p>
+
+<!-- Profile views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dengtiel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
 <!-- Profile picture -->
-![Profile views](https://komarev.com/ghpvc/?username=Dengtiel&label=Profile%20views&color=0e75b6&style=flat)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dengtiel/Dengtiel/main/Dengtiel%20Junior%20Passport%20size%20photo.jpg" alt="Dengtiel Mayen" width="180" style="border-radius: 50%; border: 2px solid #ddd;" />
 </p>
@@ -10,6 +19,7 @@
   <strong>Founder & CEO at <a href="https://www.linkedin.com/company/lajik-tech">Lajik Tech</a></strong><br>
   <strong>Creator of <a href="https://www.linkedin.com/company/african-learning-link-all">African Learning Link (ALL)</a></strong>
 </p>
+
 
 ---
 
