@@ -70,12 +70,11 @@
 > 📘 Building accessible tools to close the education gap in tech.
 
 ---
-
-### 🕊️ Raise Them Foundation Website
-> ❤️ Designed and launched a web platform for a foundation that supports **refugee empowerment**.  
-> 🎯 Features include donor support, volunteer outreach, and impact storytelling.  
-> 🧰 Tech Stack: `HTML`, `CSS`, `JavaScript`, `Figma`
-
+### 🕊️ [Raise Them Foundation Website](https://www.raisethemfoundation.org/)
+> 🌟 Developed under **Lajik Tech**, this platform empowers refugee youth by providing transformative education, personalized mentorship, and practical skill development.  
+> 🎯 Features include scholarship assistance, university application support, and vocational training programs.  
+> 🧰 Tech Stack: `WordPress`, `Elementor`, `Figma`  
+> 🔗 Visit the live site: [raisethemfoundation.org](https://www.raisethemfoundation.org/)
 ---
 
 ### 📰 [InstaNews](https://github.com/Dengtiel/instanews)
