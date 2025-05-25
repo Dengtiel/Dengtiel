@@ -10,10 +10,10 @@
 
 <!-- Profile picture -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dengtiel/Dengtiel/main/Dengtiel%20Junior%20Passport%20size%20photo.jpg" alt="Dengtiel Mayen" width="180" style="border-radius: 50%; border: 2px solid #ddd;" />
+  <img src="https://raw.githubusercontent.com/Dengtiel/Dengtiel/main/Dengtiel%20Junior%20Passport%20size%20photo.jpg" alt="Deng Mayen Deng Akol" width="180" style="border-radius: 50%; border: 2px solid #ddd;" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Dengtiel Mayen!</h1>
+<h1 align="center">👋 Hi, I'm Dengtiel Junior!</h1>
 
 <p align="center">
   <strong>Founder & CEO at <a href="https://www.linkedin.com/company/lajik-tech">Lajik Tech</a></strong><br>
