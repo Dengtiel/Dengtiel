@@ -52,7 +52,7 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://i.imgur.com/oZ5J4oF.gif" alt="Featured Projects Banner" width="90%">
+  <img src="https://cdn.pixabay.com/photo/2017/08/30/07/52/technology-2696219_1280.jpg" alt="Featured Projects Banner" width="90%">
 </p>
 
 ---
