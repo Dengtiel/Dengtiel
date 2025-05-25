@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/wF5dPjW.png" alt="Dengtiel Mayen Banner" width="100%" />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Tech Banner" width="100%" />
 </p>
 
 <!-- Profile views -->
@@ -19,7 +19,6 @@
   <strong>Founder & CEO at <a href="https://www.linkedin.com/company/lajik-tech">Lajik Tech</a></strong><br>
   <strong>Creator of <a href="https://www.linkedin.com/company/african-learning-link-all">African Learning Link (ALL)</a></strong>
 </p>
-
 
 ---
 
