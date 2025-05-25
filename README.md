@@ -51,38 +51,37 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-✨ Here are a few projects I'm proud of — built to empower, educate, and connect communities through technology. ✨
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/techreagan/portfolio/main/public/assets/images/project-banner.gif" alt="Featured Projects Banner" width="90%" style="border-radius: 12px;" />
+</p>
 
 ---
 
 ### 🐚 [alu-shell](https://github.com/dmayen/alu-shell)
-> A curated collection of Shell scripting tasks from the ALX Software Engineering program.  
-> 🔹 Focused on automation, permissions, and Linux CLI mastery.  
-> 🔧 Technologies: `Bash`, `Linux`, `Git`
+> 🧠 A curated collection of Shell scripting tasks from the ALX Software Engineering program.  
+> 🔹 Focused on automation, Linux command-line mastery, and scripting fundamentals.  
+> 🛠️ Tools: `Bash`, `Linux`, `Git`, `CLI`
 
 ---
 
 ### 🌍 African Learning Link (ALL)
-> A mentorship and learning development platform designed to **empower African youth**.  
-> 🚀 Creating structured learning paths, digital access, and mentorship pipelines.  
-> 🌱 *In development*: dynamic course modules, forums, and talent connections.
+> 💡 A mentorship and learning development platform designed to **empower African youth**.  
+> 🚀 Building digital access, education modules, and guided mentorship pathways.  
+> 🌐 In development: structured courses, forums, and talent bridges.
 
 ---
 
 ### 🕊️ Raise Them Foundation Website
-> Designed and developed a professional platform for a foundation that helps **refugees realize their potential**.  
-> 🎯 Focus: impact storytelling, donation integration, mobile-first UI.  
-> 💡 Tools: `HTML`, `CSS`, `JavaScript`, `Figma`
+> ❤️ Designed and deployed a responsive site to support **refugee empowerment initiatives**.  
+> 🎯 Features: mission storytelling, volunteer engagement, and donation integration.  
+> 🧰 Tech Stack: `HTML`, `CSS`, `JavaScript`, `Figma`
 
 ---
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/03/25/13/39/web-6126237_1280.png" alt="Featured Projects Banner" width="80%" style="border-radius: 12px;" />
+  <em>🌟 Passionate about using tech to make a difference — one solution at a time.</em>
 </p>
+
 
 ---
 
