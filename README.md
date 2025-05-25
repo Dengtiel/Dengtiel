@@ -57,30 +57,45 @@
 
 ---
 
-### 🐚 [alu-shell](https://github.com/dmayen/alu-shell)
+### 🐚 [alu-shell](https://github.com/Dengtiel/alu-shell)
 > 🧠 A curated collection of Shell scripting tasks from the ALX Software Engineering program.  
-> 🔹 Focused on automation, Linux command-line mastery, and scripting fundamentals.  
+> 🔹 Mastering Linux command-line skills through scripting automation and permissions.  
 > 🛠️ Tools: `Bash`, `Linux`, `Git`, `CLI`
 
 ---
 
 ### 🌍 African Learning Link (ALL)
-> 💡 A mentorship and learning development platform designed to **empower African youth**.  
-> 🚀 Building digital access, education modules, and guided mentorship pathways.  
-> 🌐 In development: structured courses, forums, and talent bridges.
+> 💡 A mentorship and learning development platform to **empower African youth**.  
+> 🚀 Focused on creating structured learning modules and mentorship systems.  
+> 📘 Building accessible tools to close the education gap in tech.
 
 ---
 
 ### 🕊️ Raise Them Foundation Website
-> ❤️ Designed and deployed a responsive site to support **refugee empowerment initiatives**.  
-> 🎯 Features: mission storytelling, volunteer engagement, and donation integration.  
+> ❤️ Designed and launched a web platform for a foundation that supports **refugee empowerment**.  
+> 🎯 Features include donor support, volunteer outreach, and impact storytelling.  
 > 🧰 Tech Stack: `HTML`, `CSS`, `JavaScript`, `Figma`
 
 ---
 
+### 📰 [InstaNews](https://github.com/Dengtiel/instanews)
+> 🗞️ A CLI-based application that scrapes and displays news headlines and summaries.  
+> 🧠 Built to practice **web scraping**, **data parsing**, and terminal-based interactivity.  
+> 🔍 Tools: `Python`, `Requests`, `BeautifulSoup`
+
+---
+
+### 🔍 [Regex Data Extraction](https://github.com/Dengtiel/alu_regex-data-extraction-Dengtiel)
+> 🧩 Extracting and parsing structured data using **Regular Expressions (regex)**.  
+> 📦 This project showcases effective data cleaning and pattern matching techniques.  
+> 🛠️ Skills: `Python`, `Regex`, `Data Wrangling`
+
+---
+
 <p align="center">
-  <em>🌟 Passionate about using tech to make a difference — one solution at a time.</em>
+  <em>🌟 Passionate about using technology to build impactful tools for education, storytelling, and community empowerment.</em>
 </p>
+
 
 
 ---
