@@ -1,4 +1,5 @@
 <!-- Profile picture -->
+![Profile views](https://komarev.com/ghpvc/?username=Dengtiel&label=Profile%20views&color=0e75b6&style=flat)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dengtiel/Dengtiel/main/Dengtiel%20Junior%20Passport%20size%20photo.jpg" alt="Dengtiel Mayen" width="180" style="border-radius: 50%; border: 2px solid #ddd;" />
 </p>
