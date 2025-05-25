@@ -1,14 +1,23 @@
-<!-- Profile picture (replace with your image if desired) -->
+<!-- Profile picture -->
 <p align="center">
-  <img src="https://github.com/dmayen.png" alt="Dengtiel Mayen" width="180" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/Dengtiel/Dengtiel/main/Dengtiel%20Junior%20Passport%20size%20photo.jpg" alt="Dengtiel Mayen" width="180" style="border-radius: 50%; border: 2px solid #ddd;" />
 </p>
 
-# 👋 Hi, I'm Dengtiel Mayen!
+<h1 align="center">👋 Hi, I'm Dengtiel Mayen!</h1>
 
-**Founder & CEO at Lajik Tech**  
-**Creator of African Learning Link (ALL)**
+<p align="center">
+  <strong>Founder & CEO at <a href="https://www.linkedin.com/company/lajik-tech">Lajik Tech</a></strong><br>
+  <strong>Creator of <a href="https://www.linkedin.com/company/african-learning-link-all">African Learning Link (ALL)</a></strong>
+</p>
 
-My mission is to leverage technology to empower communities through education, mentorship, and digital solutions.
+---
+
+🎯 My mission is to **leverage technology to empower underserved communities** through education, mentorship, and digital innovation across Africa.
+
+🌍 I'm passionate about:
+- Educational Technology (EdTech)
+- Mentorship & Talent Development
+- Community Empowerment through Digital Tools
 
 ---
 
@@ -26,7 +35,7 @@ My mission is to leverage technology to empower communities through education, m
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Graphic%20Design-000000?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Graphic Design" />
   <img src="https://img.shields.io/badge/Videography-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Videography" />
-</p>s
+</p>
 
 ---
 
