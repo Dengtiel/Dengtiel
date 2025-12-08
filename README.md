@@ -19,7 +19,8 @@
 </p>
 
 
-<h1 align="center">👋 Hi, I'm Dengtiel Junior!</h1>
+<h1 align="center">👋 Hi, I'm Deng Mayen Deng Akol
+a.k.a Dengtiel Junior!</h1>
 
 <p align="center">
   <strong>Founder & CEO at <a href="https://www.linkedin.com/company/lajik-tech">Lajik Tech</a></strong><br>
