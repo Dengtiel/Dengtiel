@@ -23,7 +23,7 @@
 a.k.a Dengtiel Junior!</h1>
 
 <p align="center">
-  <strong>Founder & CEO at <a href="https://www.linkedin.com/company/lajik-tech">Lajik Tech</a></strong><br>
+  <strong>Founder & CEO at <a href="https://www.lajiktech.com">Lajik Tech</a></strong><br>
   <strong>Creator of <a href="https://www.linkedin.com/company/african-learning-link-all">African Learning Link (ALL)</a></strong>
 </p>
 
