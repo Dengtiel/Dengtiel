@@ -10,8 +10,14 @@
 
 <!-- Profile picture -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dengtiel/Dengtiel/main/Dengtiel%20Junior%20Passport%20size%20photo.jpg" alt="Deng Mayen Deng Akol" width="180" style="border-radius: 50%; border: 2px solid #ddd;" />
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1aobwTtWeA9nndobjNB5SAAeaXn5anqRx" 
+    alt="Deng Mayen Deng Akol" 
+    width="180" 
+    style="border-radius: 50%; border: 2px solid #ddd;" 
+  />
 </p>
+
 
 <h1 align="center">👋 Hi, I'm Dengtiel Junior!</h1>
 
