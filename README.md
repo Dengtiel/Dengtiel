@@ -73,7 +73,7 @@ a.k.a Dengtiel Junior!</h1>
 > 💡 A mentorship and learning development platform to **empower African youth**.  
 > 🚀 Focused on creating structured learning modules and mentorship systems.  
 > 📘 Building accessible tools to close the education gap in tech.  
-> 🔗 Visit the live site: [africanlearninglink.com](https://www.africanlearninglink.com)
+> 🔗 Visit the live site: [africanlearninglink.com](https://africanlearninglink.com)
 
 ---
 ### 🕊️ [Raise Them Foundation Website](https://www.raisethemfoundation.org/)
